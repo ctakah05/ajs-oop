@@ -43,8 +43,6 @@ class Character {
         this.attack = 10;
         this.defence = 40;
         break;
-      default:
-        break;
     }
   }
 
